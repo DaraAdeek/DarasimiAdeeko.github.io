@@ -37,17 +37,22 @@
       <h2 d="graphic design" class="heading"style="color:SlateBlue;">Graphic Design</h2>
       <p> I learnt how to use Canva to design my templates which has been very usefull for my school work.</p>
     
-      <h2>My projects</h2>
-   <li><a href="https://www.canva.com/design/DAGDoC5cBEA/AGIq_i9Bz7MhjXrbfjqxjA/edit" target="_blank">Buisness card</a></li>
-    <li><a href="https://www.canva.com/design/DAFoubgaVUg/NpPutfRAqa5574fWi0widQ/edit" target="_blank">Car flyer</a></li>
-    <li><a href="https://www.canva.com/design/DAGDjt45C1c/o4-tedP-vlTEVDTmj6e5fQ/edit" target="_blank">About me</a></li>
     
       <h2 id="robotics" class="heading" style="color:#5F186A;">Robotics</h2>
       <p> I built a few Robots. This new robot I built I have been able to code it to do a few things.</p>
       
+       <video width="640" height="360" controls>
+        <source src="mbotamb.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+    
+      
        <h1> My 1 minute video</h1>
-<li><a href="https://www.canva.com/design/DAGHNt4YICY/P3HkYTYNDs1JqFuXnm3RgA/edit" target="_blank">1 Minute video</a></li>
-
+ <video width="640" height="360" controls>
+        <source src="By Darasimi.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+    
 
  <footer>
   <p>Creator: Oluwadarasimi Adeeko<br>
@@ -65,5 +70,3 @@
 
   </body>
 </html>
-  
-      
